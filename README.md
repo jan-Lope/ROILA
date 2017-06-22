@@ -6,7 +6,7 @@ ROILA is being developed by the Department of Industrial Design at Eindhoven Uni
 
 ## Content
 
-   dictionarys/roila-dictionary.txt
+   dictionaries/roila-dictionary.txt
    
 This dictionary file can be used by the software ding ( http://www-user.tu-chemnitz.de/~fri/ding/ ).
 
