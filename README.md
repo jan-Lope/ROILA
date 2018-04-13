@@ -1,8 +1,4 @@
----
-title: Robot Interaction Language
-description: Robot Interaction Language (ROILA)
-author: jan Lope
----
+
 
 <!--
   Title: ROILA
