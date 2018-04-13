@@ -1,3 +1,17 @@
+---
+title: Robot Interaction Language
+description: Robot Interaction Language (ROILA)
+author: jan Lope
+---
+
+<!--
+  Title: ROILA
+  Description: The Robot Interaction Language (ROILA) is the first spoken language created specifically for talking to robots. 
+  Author: ich
+  -->
+
+
+
 # ROILA
 The Robot Interaction Language (ROILA) is the first spoken language created specifically for talking to robots. 
 ROILA is being developed by the Department of Industrial Design at Eindhoven University of Technology. The major goals of ROILA are that it should be easily learnable by the user, and optimized for efficient recognition by robots. 
