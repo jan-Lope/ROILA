@@ -1,6 +1,6 @@
-«««
+---
 title: document title
-»»»
+---
 
 
 <!--
