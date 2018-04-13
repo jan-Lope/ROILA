@@ -1,5 +1,3 @@
-var conv = new showdown.Converter({metadata: true});
-
 <!--
   Title: The Robot Interaction Language (ROILA)
   Description: The Robot Interaction Language (ROILA) is the first spoken language created specifically for talking to robots. 
